@@ -1,3 +1,5 @@
+deployed app link: https://boardinsurance.streamlit.app/
+
 # Medical Insurance Data Science Dashboard
 
 An interactive Streamlit dashboard for exploring medical insurance data, performing statistical hypothesis tests, and predicting medical insurance charges using multiple linear regression.
